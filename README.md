@@ -2,7 +2,7 @@
 
 **Links**
 
-Link to Data Module Used: [Data Modules Link 🗄](https://drive.google.com/file/d/1sgsI-JU9nm-WOrk1mXZOEBpC63yoaNR8/view?usp=share_link)
+Link to Project Report: [Project Report Link 🗄](https://drive.google.com/file/d/1sgsI-JU9nm-WOrk1mXZOEBpC63yoaNR8/view?usp=share_link)
 
 
 **Output Results** 
